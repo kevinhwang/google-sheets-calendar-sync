@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "esnext"
+    ],
+    "target": "es3",
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
